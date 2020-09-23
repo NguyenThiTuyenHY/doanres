@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularres"
+    }
+  },
+  "defaultProject": "angularres",
+  "cli": {
+    "analytics": "88cf45c1-9097-4c11-8c0e-07eea2a232c4"
+  }
 }
